@@ -6,9 +6,9 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: 'Vikram Gupta',
+      name: 'Jasveer Singh',
       role: 'Happy Client',
-      text: 'BOP.in helped me find my dream home in Noida. The entire process was smooth and transparent.',
+      text: 'Aspire Leisure Park and Aspire Centurian Park are truly exceptional developments. The location is impressive with Gaur Chowk just 5 minutes away, and pricing remains highly attractive for investors. The thoughtful loading, NBCC association, and Supreme Court monitoring together provide unmatched transparency, reliability, and long-term confidence.',
       rating: 5
     },
     {
