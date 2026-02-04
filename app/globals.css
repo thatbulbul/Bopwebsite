@@ -319,3 +319,32 @@
     }
   }
 }
+.footer-texture {
+  width: 100%;
+  height: 100%;
+  background-image: url('/textures/footer-texture.png');
+  background-repeat: no-repeat;
+  background-size:1000px;        
+  background-position: -5px bottom;
+  opacity: 0.61;               
+  animation: textureFloat 50s ease-in-out infinite;
+
+}
+@media (max-width: 768px) {
+  .footer-texture {
+    background-size: 600px;
+    opacity: 0.25;
+    background-position: center bottom;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
