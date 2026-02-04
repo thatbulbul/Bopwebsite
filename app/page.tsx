@@ -9,6 +9,7 @@ import Team from '@/components/team'
 import Testimonials from '@/components/testimonials'
 import BlogSection from '@/components/blog-section'
 import ContactSection from '@/components/contact-section'
+import LogoMarquee from '@/components/logo-marquee'
 import Footer from '@/components/footer'
 
 
@@ -26,6 +27,7 @@ export default function Home() {
       <Testimonials />
       <BlogSection />
       <ContactSection />
+      <LogoMarquee />
       <Footer />
     </main>
   )

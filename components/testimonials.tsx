@@ -13,25 +13,32 @@ export default function Testimonials() {
     },
     {
       id: 2,
-      name: 'Anjali Sharma',
+      name: 'Aarti Sharma',
       role: 'Property Investor',
-      text: 'Excellent investment opportunity. The team provided valuable insights and support throughout.',
+      text: 'BOP’s Channel Partner Meet at Eternia was excellent. Every partner seemed happy with the plans, incentives, and the vision shared. The best part of these projects is the involvement of NBCC and Supreme Court, ensuring complete peace of mind. With the right price, strong backing, these projects will be extremely fruitful for investors.',
       rating: 5
     },
     {
       id: 3,
-      name: 'Rohit Patel',
+      name: 'Shami Ahmed Khan',
       role: 'Commercial Client',
-      text: 'Best commercial property options in Delhi NCR. Highly recommended for business setup.',
+      text: 'Bhutani Grand Central is a highly promising project offering strong location advantages and excellent appreciation potential. With increasing population and future demand, it stands out as a golden opportunity for high returns. The hotel-managed model, 21-day yearly stay, and 50:50 revenue share create a unique investment.',
       rating: 5
     },
     {
       id: 4,
-      name: 'Priya Desai',
+      name: 'Yogesh Tiwari',
       role: 'First-time Buyer',
-      text: 'The team made the home buying process very easy and stress-free. Great service!',
+      text: 'The Channel Partner Meet organized by BOP was exceptionally well managed, reflecting professionalism. I was genuinely impressed with the exclusive projects showcased, featuring remarkable designs, competitive pricing, and the trusted involvement of NBCC and Supreme Court. These factors together make them outstanding choices.',
       rating: 5
     },
+    {
+      id: 5,
+      name: 'Neelam Singh',
+      role: 'Real Estate Enthusiast',
+      text: ' Bhutani Grand Central Hotel Suites offer a standout investment opportunity with a unique, worry-free ownership. Since the hotel manages all maintenance and operations, investors enjoy complete convenience and peace . Combined with its prime location and future growth potential, it becomes a secure and highly rewarding real estate choice.',
+      rating: 5
+    }
   ];
 
   return (
