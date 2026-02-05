@@ -10,12 +10,12 @@ export default function Header() {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null)
 
   const navigationItems = [
-    { label: 'Home', href: '#' },
+    { label: 'Home', href: '/' },
     {
       label: 'About Us',
-      href: '#',
+      href: '/about',
       submenu: [
-        { label: 'About', href: '#' },
+        { label: 'About', href: '/about' },
         { label: 'Our Gallery', href: '#' },
         { label: 'Our Awards', href: '#' },
         { label: 'Media', href: '#' },
